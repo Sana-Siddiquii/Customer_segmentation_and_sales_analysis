@@ -6,7 +6,7 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 ## Project Structure
 
 - **Customer_segmentation_and_sales_analysis.ipynb**: The Jupyter notebook containing the data analysis, visualizations, and RFM segmentation.
-- **sales_data_updated.csv**: The dataset used for customer segmentation and sales trend analysis.
+- **sales_data.csv**: The dataset used for customer segmentation and sales trend analysis.
 - **Customer_Segmentation_and_Sales_Analysis_Report.docx**: A detailed report summarizing the findings and recommendations based on the analysis.
 
 ## Requirements
